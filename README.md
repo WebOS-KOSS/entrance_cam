@@ -1,3 +1,3 @@
 # Environment
-Device : raspberry pi 4B+ & raspberry pi cam v2 <br/>
+Device : raspberry pi 4 Model B Rev 1.4 <br/>
 OS : Raspbian
